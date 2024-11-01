@@ -1,0 +1,13 @@
+{
+    "name": "tailoredmedia/swiper-carousel",
+    "description": "Adds a gutenberg block for a carousel using Swiper JS.  Requires ACF Pro be installed.",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://gitlab.com/tailored-wp-plugins/tailored-swiper-carousel",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Tailored Media",
+            "homepage": "https://www.tailoredmedia.com.au"
+        }
+    ]
+}

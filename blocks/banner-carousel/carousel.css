@@ -1,0 +1,50 @@
+
+
+/**
+ *	Base styles, added to Swiper CSS from CDN
+ */
+ .wp-block-banner-carousel .swiper-slide {
+	position:relative;
+	line-height:1px;
+}
+.wp-block-banner-carousel .swiper-slide .image img {
+	width:100%;
+	max-width:100%;
+	height:auto;
+}
+
+
+
+/**
+ *	Sample Styles, could customise in your theme
+ *
+.wp-block-banner-carousel .caption {
+	position:absolute;
+	bottom:0;
+	left:0;
+	line-height:1.3;
+}
+.wp-block-banner-carousel .caption {
+	background:rgba(0,0,0,0.5);
+	color:#fff;
+	padding:1em;
+	width:100%;
+}
+.wp-block-banner-carousel .caption > :last-child {
+	margin-bottom:0;
+}
+
+.wp-block-banner-carousel .swiper-container-horizontal > .swiper-pagination-bullets {
+	width:auto;
+	left:auto;
+	right:1em;
+	bottom:1em;
+}
+.wp-block-banner-carousel .swiper-pagination-bullet {
+	width:0.5em;
+	height:0.5em;
+	transition:0.2s all;
+}
+.wp-block-banner-carousel .swiper-pagination-bullet-active {
+	font-size:1.1em;
+}
